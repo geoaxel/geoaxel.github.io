@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+title: blog.axeLL.de
+subtitle: 'kleinkram und alltagskunst'
 
 design:
   background:
