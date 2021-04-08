@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: blog.axeLL.de
-subtitle: 'kleinkram und alltagskunst'
+title: geo.axeLL.de
+subtitle: '👨‍💻 GEOprojects 🌍'
 
 design:
   background:
